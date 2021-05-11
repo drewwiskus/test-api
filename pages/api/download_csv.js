@@ -6,6 +6,8 @@ export default (req, res) => {
 
   // Set the region
   const SESConfig = {
+    accessKeyId: `AKIAW5UHK2VNYM3CA4AL`,
+    secretAccessKey: `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`,
     region: "us-east-2"
   }
 
